@@ -1,2 +1,2 @@
-# giera
-tylman
+# Talking Tylman Giera
+tu dokumentacja ma być
