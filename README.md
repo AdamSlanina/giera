@@ -1,5 +1,5 @@
 
-# ![enter image description here](https://i.imgur.com/uwgHphS.jpg)Talking Tylman Giera
+# ![enter image description here](https://i.imgur.com/uwgHphS.jpg) Talking Tylman Giera
 Gra o byciu tylmanem oparta na grze **Talking Ben**!
 
 ## Funkcje
