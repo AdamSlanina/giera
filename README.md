@@ -6,7 +6,7 @@ Gra o byciu tylmanem oparta na grze **Talking Ben**!
 
  - Rozwiązywanie działań matematyczych
  - Wsparcie dla mikrofonu
- - Interakcja z głosowa z Tylmanem
+ - Interakcja głosowa z Tylmanem
  - no to tak 0
 ## Wykonawcy
  - Aleksander Tylman
