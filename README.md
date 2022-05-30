@@ -1,4 +1,5 @@
 
+
 # ![enter image description here](https://i.imgur.com/dWdCx5Y.jpg) Talking Tylman Giera
 Gra o byciu tylmanem oparta na grze **Talking Ben**!
 
@@ -13,3 +14,5 @@ Gra o byciu tylmanem oparta na grze **Talking Ben**!
  - Adam Slanina
  - Piotr Płoszek
  - Kamil Mielcarek
+
+## [Dokumentacja](https://github.com/AdamSlanina/giera/blob/main/dokumantacja.md)
