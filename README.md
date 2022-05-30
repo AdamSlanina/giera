@@ -10,6 +10,6 @@ Gra o byciu tylmanem oparta na grze **Talking Ben**!
  - no to tak 0
 ## Wykonawcy
  - Aleksander Tylman
- - Adam Slania
+ - Adam Slanina
  - Piotr Płoszek
  - Kamil Mielcarek
