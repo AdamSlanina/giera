@@ -1,3 +1,4 @@
+
 # Talking Tylman Giera
 Gra o byciu tylmanem oparta na grze **Talking Ben**!
 
@@ -7,3 +8,8 @@ Gra o byciu tylmanem oparta na grze **Talking Ben**!
  - Wsparcie dla mikrofonu
  - Interakcja z głosowa z Tylmanem
  - no to tak 0
+## Wykonawcy
+ - Aleksander Tylman
+ - Adam Slania
+ - Piotr Płoszek
+ - Kamil Mielcarek
