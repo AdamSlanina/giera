@@ -1,5 +1,5 @@
 # Talking Tylman Giera
-**Gra o byciu tylmanem oparta na Talking Ben**
+Gra o byciu tylmanem oparta na **Talking Ben**
 
 ## Funkcje
 
