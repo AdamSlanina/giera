@@ -1,4 +1,10 @@
+Postęp nad funkcjami:
 
+ - [x] Zaprogramowanie bazy gry
+ - [ ] Zaprojektowanie animacji oraz implementacja ich do gry
+ - [x] Nagranie odpowiedzi Tylmana
+ - [ ] Poprawienie błędów
+ - [ ] Dokończenie dokumentacji
 
 #  Funkcje gry oraz ich implementacja
 
