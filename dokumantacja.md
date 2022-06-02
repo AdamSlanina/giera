@@ -15,5 +15,6 @@ Działa jak kalkulator z podstawowymi funkcjami (dodawania, odejmowanie, mnożni
 
 ![enter image description here](https://img29.demotywatoryfb.pl//uploads/202010/1603371485_hhi9ne_500.jpg)
 ## Animacje Tylmana
-
 będzie 5 rożnach animacji jeszcze nie zrobione.
+
+![enter image description here](https://www.icegif.com/wp-content/uploads/2022/04/icegif-232.gif)
