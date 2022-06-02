@@ -1,4 +1,4 @@
-Postęp nad funkcjami:
+***Postęp nad funkcjami:***
 
  - [x] Zaprogramowanie bazy gry
  - [ ] Zaprojektowanie animacji oraz implementacja ich do gry
