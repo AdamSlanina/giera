@@ -1,22 +1,26 @@
 ***Postęp nad funkcjami:***
 
- - [x] Zaprogramowanie bazy gry
- - [ ] Zaprojektowanie animacji oraz implementacja ich do gry
- - [x] Nagranie odpowiedzi Tylmana
- - [ ] Poprawienie błędów
- - [ ] Dokończenie dokumentacji
+ - [x] Mapa i otoczenie
+ - [x] Dobra zabawa
+ - [x] Stworzenie modeli broni
+ - [x] Stworzenie mechanik broni
+ - [x] Stworzenie modeli aut
+ - [x] Stworzenie fizyki aut
+ - [x] Stworzenie mechanik aut
+ - [x] Poprawienie błędów
+ - [x] Dokończenie dokumentacji
 
-#  Funkcje gry oraz ich implementacja 
+Uwolnij w sobie Tylmana.
 
-## Odpowiedzi na pytania matematyczne 
+Życie Tylmana symulator to gra, która nie ma za zadanie ukazywać problemów życiowych ani żadnych reali, symulator Tylmana to gra oparta na jego codziennej rutynie. Obudź się w pięknej willi jako Tylman i przedostań się jednym z jego luksusowych aut do jego ulubionego miejsca - strzelnicy. Tam możesz otrzymać większy arsenał broni. Uwaga - gra jest w trybie wieloosobowym, nie jest tylko jeden Tylman, jest ich aż kilku!
 
-Odpowiedz z pytania matematyczne oraz powiedzenie liczby końcowej.
-Działa jak kalkulator z podstawowymi funkcjami (dodawania, odejmowanie, mnożnie, dzielenie).
+Walcz z innymi Tylmanami i przedostań się jako pierwszy do strzelnicy. Gra oferuje:
+- świetne i bardzo energiczne walki bronią białą oraz różnymi pukawkami
+- świetnie zrobiona mapa, modele i krajobraz - to co lubi Tylman najbardziej!
+- świetnie zaprojektowane pojazdy, z pełną fizyką oraz mechaniką
+- świetnie zasymulowane życie codziennie Tylmana
+
+Obudź w sobie Tylmana i już zagraj w grę Życie Tylmana Simulator!
 
 > No to tak 0. - **Aleksander Tylman**
 
-![enter image description here](https://img29.demotywatoryfb.pl//uploads/202010/1603371485_hhi9ne_500.jpg)
-## Animacje Tylmana
-będzie 5 rożnach animacji jeszcze nie zrobione.
-
-![enter image description here](https://www.icegif.com/wp-content/uploads/2022/04/icegif-232.gif)
