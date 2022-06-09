@@ -18,7 +18,7 @@ Walcz z innymi Tylmanami i przedostań się jako pierwszy do strzelnicy. Gra ofe
 - świetne i bardzo energiczne walki bronią białą oraz różnymi pukawkami
 - świetnie zrobiona mapa, modele i krajobraz - to co lubi Tylman najbardziej!
 - świetnie zaprojektowane pojazdy, z pełną fizyką oraz mechaniką
-- świetnie zasymulowane życie codziennie Tylmana
+- świetnie zasymulowane życie codzienne Tylmana
 
 Obudź w sobie Tylmana i już zagraj w grę [Życie Tylmana Simulator](https://www.roblox.com/games/9862281355/ycie-Tylmana-symulator)!
 
