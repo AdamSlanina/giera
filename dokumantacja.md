@@ -22,5 +22,7 @@ Walcz z innymi Tylmanami i przedostań się jako pierwszy do strzelnicy. Gra ofe
 
 Obudź w sobie Tylmana i już zagraj w grę Życie Tylmana Simulator!
 
+# ![enter image description here](https://i.imgur.com/dTx643j.png)
+
 > No to tak 0. - **Aleksander Tylman**
 
