@@ -1,6 +1,6 @@
 
 
-# ![enter image description here](https://i.imgur.com/dWdCx5Y.jpg) Talking Tylman Giera
+# ![enter image description here](https://i.imgur.com/dWdCx5Y.jpg) Życie Tylmana Simulator
 Gra o życiu codziennym Tylmana na silniku Roblox!
 
 ![enter image description here](https://i.imgur.com/9rDYcx2.png) 
