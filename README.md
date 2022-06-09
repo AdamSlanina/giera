@@ -1,14 +1,14 @@
 
 
 # ![enter image description here](https://i.imgur.com/dWdCx5Y.jpg) Talking Tylman Giera
-Gra o byciu tylmanem oparta na grze **Talking Ben**!
+Gra o życiu codziennym Tylmana na silniku Roblox!
+
+![enter image description here](https://i.imgur.com/9rDYcx2.png) 
 
 ## Funkcje
 
- - Rozwiązywanie działań matematyczych
- - Wsparcie dla mikrofonu
- - Interakcja głosowa z Tylmanem
- - no to tak 0
+ Wszystko znajduje się w [dokumentacji](https://github.com/AdamSlanina/giera/blob/main/dokumantacja.md).
+ 
 ## Wykonawcy
  - Aleksander Tylman
  - Adam Slanina
